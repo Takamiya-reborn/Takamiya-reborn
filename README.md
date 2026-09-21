@@ -1,10 +1,8 @@
 ## Hi I'm Takamiya 👋
 
-I'm current learning Web Development and Artificial Intelligence. I'm so glad to meet you.😊
+I am a versatile Software Engineer with a strong focus on **Full-Stack Development** and **Artificial Intelligence**. My technical philosophy centers on building scalable, high-performance systems while maintaining intuitive user experiences.
 
-I have a strong interst and curoisity in many things, including **history 🗿**, **biology🧬**, **speices 🦖**, **astronomy 🔭**, and so on.
-
-You can discuss anything you want with me without worrying too much. I'm always eager to learn.
+Beyond software engineering, I possess a broad intellectual curiosity spanning history, biology, and astronomy. I am always open to insightful technical discussions and collaborative projects.
 
 ## What can I do ✍️
 
