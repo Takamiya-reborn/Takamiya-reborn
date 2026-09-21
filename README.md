@@ -6,7 +6,7 @@ Beyond software engineering, I possess a broad intellectual curiosity spanning h
 
 ## What can I do ✍️
 
-- Lang
+- Programming Languages
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=ffffff)
 ![](https://img.shields.io/badge/C++-00599C?style=flat&logo=CPlusPlus&logoColor=ffffff)
@@ -16,7 +16,7 @@ Beyond software engineering, I possess a broad intellectual curiosity spanning h
 ![](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=ffffff)
 ![](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=ffffff)
 
-- Framework
+- Frameworks & Libraries
 
 &nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=ffffff)
 ![](https://img.shields.io/badge/Flask-3BABC3?style=flat&logo=flask&logoColor=ffffff)
@@ -25,28 +25,27 @@ Beyond software engineering, I possess a broad intellectual curiosity spanning h
 ![](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt&logoColor=ffffff)
 ![](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=ffffff)
 ![](https://img.shields.io/badge/%2ENET-512BD4?style=flat&logo=dotnet&logoColor=ffffff)
-
-- Dependency
-
-&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/PydanticAI-E92063?style=flat&logo=pydantic&logoColor=ffffff)
 ![](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=ffffff)
-![](https://img.shields.io/badge/Anime%2Ejs-000000?style=flat&logo=animedotjs&logoColor=ffffff)
 ![](https://img.shields.io/badge/Konva-0D83CD?style=flat&logo=konva&logoColor=ffffff)
 
-- Other
+- Tech & Tools
 
-&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=ffffff)
-![](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=ffffff)
-![](https://img.shields.io/badge/UE-0E1128?style=flat&logo=unrealengine&logoColor=ffffff)
-
-## What tools I prefer 🛠️
-
+&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/PydanticAI-E92063?style=flat&logo=pydantic&logoColor=ffffff)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=ffffff)
+![](https://img.shields.io/badge/Anime%2Ejs-000000?style=flat&logo=animedotjs&logoColor=ffffff)
 ![](https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=uv&logoColor=ffffff)
 ![](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=ffffff)
 ![](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=ffffff)
 
+- Others
+
+&nbsp;&nbsp;&nbsp;&nbsp; ![](https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godotengine&logoColor=ffffff)
+![](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=ffffff)
+![](https://img.shields.io/badge/UE-0E1128?style=flat&logo=unrealengine&logoColor=ffffff)
+![](https://img.shields.io/badge/blender-E87D0D?style=flat&logo=blender&logoColor=ffffff)
+
 ## How to reach me 📫
 
-[![](https://img.shields.io/badge/Microsoft-wzy15091712036@outlook-42d3f8?style=flat&logo=email&logoColor=ffffff)](mailto:15091712036@outlook.com)
-[![](https://img.shields.io/badge/2196733767-1EBAFC?style=flat&logo=qq&logoColor=ffffff)](tencent://AddContact/?uin=2196733767)
-[![](https://img.shields.io/badge/wzy15091712036-07C160?style=flat&logo=wechat&logoColor=ffffff)](weixin://contacts/profile/wzy15091712036)
+[![](https://img.shields.io/badge/Microsoft-wzy15091712036@outlook-42d3f8?style=flat&logo=email&logoColor=ffffff)](mailto:wzy15091712036@outlook.com)
+[![](https://img.shields.io/badge/QQ-2196733767-1EBAFC?style=flat&logo=qq&logoColor=ffffff)](tencent://AddContact/?uin=2196733767)
+[![](https://img.shields.io/badge/WeChat-wzy15091712036-07C160?style=flat&logo=wechat&logoColor=ffffff)](weixin://contacts/profile/wzy15091712036)
