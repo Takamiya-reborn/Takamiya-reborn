@@ -1,8 +1,8 @@
 ## Hi I'm Takamiya 👋
 
-I am a versatile Software Engineer with a strong focus on **Full-Stack Development** and **Artificial Intelligence**. My technical philosophy centers on building scalable, high-performance systems while maintaining intuitive user experiences.
+I am a versatile Software Engineer with a strong focus on **Full-Stack Development**🌏 and **Artificial Intelligence**🧿. My technical philosophy centers on building scalable, high-performance systems while maintaining intuitive user experiences.
 
-Beyond software engineering, I possess a broad intellectual curiosity spanning history, biology, and astronomy. I am always open to insightful technical discussions and collaborative projects.
+Beyond software engineering, I possess a broad intellectual curiosity spanning history🗿, biology🧬,🦖, and astronomy🔭. I am always open to insightful technical discussions and collaborative projects.
 
 ## What can I do ✍️
 
@@ -13,7 +13,7 @@ Beyond software engineering, I possess a broad intellectual curiosity spanning h
 		<img src="https://img.shields.io/badge/TS-3178C6?style=flat&logo=typescript&logoColor=ffffff" alt="TypeScript" />
 		<img src="https://img.shields.io/badge/JS-3e3f3c?style=flat&logo=JavaScript&logoColor=F7DF1E" alt="JavaScript" />
 		<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=CPlusPlus&logoColor=ffffff" alt="C++" />
-		<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=ffffff" alt="Rust" />
+		<img src="https://img.shields.io/badge/GO-00ADD8?style=flat&logo=go&logoColor=ffffff" alt="Rust" />
 	</p>
     <p>
 		<strong>Frontend &amp; Graphics</strong><br />
@@ -29,20 +29,23 @@ Beyond software engineering, I possess a broad intellectual curiosity spanning h
     	<strong>Backend &amp; Desktop</strong><br />
     	<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=ffffff" alt="Django" />
     	<img src="https://img.shields.io/badge/Flask-3BABC3?style=flat&logo=flask&logoColor=ffffff" alt="Flask" />
+		<img src="https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=ffffff" alt="PyQt" />
+    	<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=ffffff" alt="Streamlit" />
     	<img src="https://img.shields.io/badge/Node%2Ejs-5FA04E?style=flat&logo=nodedotjs&logoColor=ffffff" alt="Node.js" />
-    	<img src="https://img.shields.io/badge/PyQt-41CD52?style=flat&logo=qt&logoColor=ffffff" alt="PyQt" />
     	<img src="https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=ffffff" alt="Electron" />
     	<img src="https://img.shields.io/badge/%2ENET-512BD4?style=flat&logo=dotnet&logoColor=ffffff" alt=".NET" />
     </p>
     <p>
     	<strong>AI &amp; Data</strong><br />
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=ffffff" alt="Pandas" />
+		<img src="https://img.shields.io/badge/Polars-0075FF?style=flat&logo=polars&logoColor=ffffff" alt="Polars" />
     	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=ffffff" alt="PyTorch" />
     	<img src="https://img.shields.io/badge/Ultralytics-111F68?style=flat&logo=ultralytics&logoColor=ffffff" alt="Ultralytics" />
     	<img src="https://img.shields.io/badge/PydanticAI-E92063?style=flat&logo=pydantic&logoColor=ffffff" alt="PydanticAI" />
     </p>
     <p>
     	<strong>Tools &amp; Creative</strong><br />
+		<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=ffffff" alt="Docker" />
     	<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=ffffff" alt="Vite" />
     	<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=ffffff" alt="npm" />
     	<img src="https://img.shields.io/badge/uv-DE5FE9?style=flat&logo=uv&logoColor=ffffff" alt="uv" />
@@ -57,7 +60,7 @@ Beyond software engineering, I possess a broad intellectual curiosity spanning h
 
 </div>
 
-## Currently working with
+## Currently working with 🎉
 
 I actively use these technologies across full-stack applications,
 AI systems, desktop tools, and interactive projects.
