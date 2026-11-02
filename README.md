@@ -63,4 +63,4 @@ Always up for chat.
 
 ## How to reach me 📫
 
-[![](https://img.shields.io/badge/Email-wzy15091712036@outlook-42d3f8?style=flat&logo=email&logoColor=ffffff)](mailto:wzy15091712036@outlook.com)
+[![](https://img.shields.io/badge/Email-wzy.research@outlook-42d3f8?style=flat&logo=email&logoColor=ffffff)](mailto:wzy.research@outlook.com)
