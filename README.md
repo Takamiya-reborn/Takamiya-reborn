@@ -64,4 +64,4 @@ Always up for chat.
 ## How to reach me 📫
 
 [![](https://img.shields.io/badge/Outlook-wzy.research@outlook-42d3f8?style=flat&logo=email&logoColor=ffffff)](mailto:wzy.research@outlook.com)
-[![](https://img.shields.io/badge/Gmail-takamiya.research@gmail.com-42d3f8?style=flat&logo=gmail&logoColor=ffffff)](mailto:takamiya.research@gmail.com)
+[![](https://img.shields.io/badge/Gmail-takamiya.research@gmail.com-EA4335?style=flat&logo=gmail&logoColor=ffffff)](mailto:takamiya.research@gmail.com)
